@@ -15,13 +15,37 @@
 | Dhananjay Nahata | nahatadhananjay33@gmail.com |
 
 
-## Environment
+## Explanation
 We are experimenting on Python3.7 
+- ../dataset.py: class that reads the specific frames of a given dataset.
+- ../evaluation.py: some useful functions for evaluate the resluts.
 
 ## Week1
+- **Task 1:** Segmentation metrics. Understand precision & recall.
+- **Task 2:** Segmentation metrics. Temporal analysis.
+- **Task 3:** Optical flow evaluation metrics.
+- **Task 4:** De-synchornized results.
+- **Task 5:** Visual representation optical flow.
 
 
 ## Week2
+- **Task 1:** Gaussian distribution
+- **Task 2:** Adaptive modelling.
+- **Task 3:** Compare with state-of-the-art
+- **Task 4:** Color sequences
+
+
+## Week3
+- **Task 1:** Object detection
+  - Task 1.1: Off-the-shelf
+  - Task 1.2: Fine-tune to your data
+  - Task 1.3: K-Fold Cross-validation
+
+- **Task 2:** Object tracking
+  - Task 2.1: Tracking by overlap
+  - Task 2.2: Tracking with a Kalman Filter
+  - Task 2.3: IDF1 score
+
 
 
 ## Documentation
