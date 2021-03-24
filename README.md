@@ -17,20 +17,22 @@
 
 ## Explanation
 We are experimenting on Python3.7 
-- ../dataset.py: class that reads the specific frames of a given dataset.
-- ../evaluation.py: some useful functions for evaluate the resluts.
+- datasets/: AICity_data dataset path, frames of video
+- annotations/: useful annotations for evaluate the resluts
 
 ## Week1
 - **Task 1:** Segmentation metrics. Understand precision & recall.
 - **Task 2:** Segmentation metrics. Temporal analysis.
 - **Task 3:** Optical flow evaluation metrics.
 - **Task 4:** De-synchornized results.
-- **Task 5:** Visual representation optical flow.
 
 
 ## Week2
 - **Task 1:** Gaussian distribution
+  - Task 1.2&1.3: Evaluate results 
 - **Task 2:** Adaptive modelling.
+  - Task 2.1: Recursive Gaussian modeling
+  - Task 2.2: Evaluate and compare to non-recursive
 - **Task 3:** Compare with state-of-the-art
 - **Task 4:** Color sequences
 
