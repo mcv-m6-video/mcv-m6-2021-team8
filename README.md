@@ -19,6 +19,7 @@
 We are experimenting on Python3.7 
 - datasets/: AICity_data dataset path, frames of video
 - annotations/: useful annotations for evaluate the resluts
+- utils/: useful tools to do different things, such as transfer frames to gif image 
 
 ## Week1
 - **Task 1:** Segmentation metrics. Understand precision & recall.
