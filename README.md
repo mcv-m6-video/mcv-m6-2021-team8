@@ -50,6 +50,23 @@ We are experimenting on Python3.7
   - Task 2.3: IDF1 score
 
 
+## Week4
+- **Task 1:** Optical Flow
+  - Task 1.1: Optical Flow with Block Matching
+  - Task 1.2: Off-the-shelf Optical Flow
+
+- **Task 2:** Video stabilization
+  - Task 2.1: Video stabilization with Block Matching
+  - Task 2.2: Off-the-shelf Stabilization
+
+- **Task 3:** Object Tracking
+  - Task 3.1: Object Tracking with Optical Flow
+  - Task 3.2: (optional) CVPR 2021 AI City Challenge
+
+
+## Week5
+- **Task 1:** Multi-target single-camera (MTSC) tracking
+- **Task 2:** Multi-target multi-camera (MTMC) tracking
 
 ## Documentation
 - Final presentation [slides]()
