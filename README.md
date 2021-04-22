@@ -69,7 +69,7 @@ We are experimenting on Python3.7
 - **Task 2:** Multi-target multi-camera (MTMC) tracking
 
 ## Documentation
-- Final presentation [slides]()
+- Final presentation [slides](https://docs.google.com/presentation/d/1CSIHvl6O1nKvgMe66rGu84ow8gGwDmrH4CdYMPKjN9U/edit?usp=sharing)
 - Project Overleaf [paper]()
 
 
