@@ -70,6 +70,6 @@ We are experimenting on Python3.7
 
 ## Documentation
 - Final presentation [slides](https://docs.google.com/presentation/d/1CSIHvl6O1nKvgMe66rGu84ow8gGwDmrH4CdYMPKjN9U/edit?usp=sharing)
-- Project Overleaf [paper]()
+- Project Overleaf [paper](https://www.overleaf.com/read/gcdqgfxgrtxm)
 
 
